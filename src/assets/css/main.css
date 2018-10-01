@@ -1,0 +1,25 @@
+.contacts {
+    margin-top: 10%;
+    margin-left: 20%;
+    border: 2px solid #cecece;
+    border-radius: 4px;
+}
+
+.contacts .searchBox { 
+    margin-top : 10px;
+}
+
+.contacts ul li{
+    list-style-type: none;
+    /*margin: 0 auto;*/
+    /*padding: 4px;*/
+    padding-top: 10px;
+}
+
+.contacts .text-number {
+    float: right;
+}
+
+.contacts ul{
+    margin-right: 50px;
+}
